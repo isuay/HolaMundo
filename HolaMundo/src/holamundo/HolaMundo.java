@@ -16,6 +16,6 @@ public class HolaMundo {
 
     public static void main(String[] args) {
         System.out.println("Hola mundo");
-        System.out.println("Este mensaje es desde Windows");
+        System.out.println("Este mensaje está escrito desde Windows");
     }
 }
